@@ -1,4 +1,7 @@
-﻿import os, datetime
+﻿# -*- encoding: utf-8 -*-
+__author__ = 'medvedev.ivan@mail.ru'
+
+import os, datetime
 
 # severity: 0 - Info, 1 - Warning, 2 - Error
 def AddMessage(severity,message):
